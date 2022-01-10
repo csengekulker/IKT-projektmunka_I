@@ -4,3 +4,10 @@
 	
 	modok:
 		git clone 
+		
+		baszki
+		
+		
+		HARD RESET
+		
+		
