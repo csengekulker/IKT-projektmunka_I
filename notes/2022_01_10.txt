@@ -9,7 +9,7 @@
 		git clone 
 			elobb tavoli, aztan local
 			clone w/ https or ssh
-			
+
 
 		git init 
 			elobb local, aztan tavoli 
@@ -26,4 +26,8 @@
 
 			git reset --hard 
 				:az utolso commitolas ota barmi tortent kitorlodik
+
+		git branch <name> 
+			uj ag
+			merge-elni lehet kesobb majd 
 
