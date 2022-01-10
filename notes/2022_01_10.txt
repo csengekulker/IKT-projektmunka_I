@@ -2,12 +2,20 @@
 	van egy tavoli repo 
 	a helyivel kell osszekottetest letrehozni
 
-	git push -u : 
+	git push -u : egyszer kell csak a token, utan git pushal ugyanoda tolt fel 
+	git add, commit, push
 	
 	modok:
 		git clone 
+			elobb tavoli, aztan local
+			clone w/ https or ssh
+			
+
+		git init 
+			elobb local, aztan tavoli 
+			remote add
 		
-		baszki elveszett
+		baszki elveszett minden innen :d 
 		
 		
 		HARD RESET
@@ -18,4 +26,4 @@
 
 			git reset --hard 
 				:az utolso commitolas ota barmi tortent kitorlodik
-				
+
