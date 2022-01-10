@@ -1,0 +1,33 @@
+_____GIT_____
+
+kozponti server - github
+__install__ 
+git-scm.com
+version 2.33.1
+
+https://webtanar.hu/
+
+IKT /
+	git project - local repo 
+
+-- > open w 
+	- git bash
+	- git gui
+
+init rmeote git repo:
+git remote add <NAME OF REMOTE REPO>
+
+https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+
+----.git----
+objects
+	keys
+
+
+git config
+	-- global
+		user.name <>
+		user.email <>
+
+
+https://cli.github.com/manual/gh_auth_login

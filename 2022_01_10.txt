@@ -1,0 +1,6 @@
+2022.01.10 
+	van egy tavoli repo 
+	a helyivel kell osszekottetest letrehozni
+	
+	modok:
+		git clone 
