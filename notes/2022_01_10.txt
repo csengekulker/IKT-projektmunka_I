@@ -29,10 +29,21 @@
 			git reset --hard 
 				:az utolso commitolas ota barmi tortent kitorlodik
 
-		git branch <name> 
+				____UJ BRANCH___
+
+		git branch masodik
 			uj ag
 			merge-elni lehet kesobb majd 
 
 		minden commitolás treet hoz létre az adott branchen
 
+		git checkout masodik 
 
+		valami valtoztatas
+
+		add, commit, 
+
+		git push --set-upstream origin masodik 
+
+			username 
+			password HELYETT TOKEN 
