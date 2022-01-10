@@ -1,4 +1,6 @@
 2022.01.10 
+
+
 	van egy tavoli repo 
 	a helyivel kell osszekottetest letrehozni
 
@@ -30,4 +32,7 @@
 		git branch <name> 
 			uj ag
 			merge-elni lehet kesobb majd 
+
+		minden commitolás treet hoz létre az adott branchen
+
 
