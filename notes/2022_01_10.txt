@@ -1,13 +1,21 @@
 2022.01.10 
 	van egy tavoli repo 
 	a helyivel kell osszekottetest letrehozni
+
+	git push -u : 
 	
 	modok:
 		git clone 
 		
-		baszki
+		baszki elveszett
 		
 		
 		HARD RESET
 		
-		
+		staging areaban vannak a fajlok 
+
+		feluton megallunk a mentesbe, kidobjuk 
+
+			git reset --hard 
+				:az utolso commitolas ota barmi tortent kitorlodik
+				
